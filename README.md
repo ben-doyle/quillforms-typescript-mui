@@ -23,5 +23,8 @@ open source replacement for [Typeform](https://www.typeform.com/).
 - [ ] Have choices in the custom block be configurable through attributes, yes... what is in there is a hack.
 - [ ] No data handling at all done in this example.
 
+### Questions for Quillforms team
+- [ ] Can we get prev(), submit() etc functions exposed in the Quillforms forms API?
+
 ### Handy Resources
 - [Quillforms react documentation](https://github.com/quillforms/quillforms/tree/master/react-docs)
